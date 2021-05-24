@@ -1,2 +1,3 @@
 # QuestionsInMyMind
-This repository will maintain a list of questions in my mind, and answers to them.
+
+Q1: If someone meet the awesome language, did he/she abandon his/her mother language?
